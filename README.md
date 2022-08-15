@@ -20,6 +20,9 @@ day 1
 - Simulasi git merge no fast forward
 ![image](https://user-images.githubusercontent.com/97284723/184730586-66ea3710-90c7-469e-9717-36ad40a1d8fc.png)
 
+- Screenshoot hasil network
+![image](https://user-images.githubusercontent.com/97284723/184732050-4354cb5d-15c8-4f6f-acd6-8a00329b840c.png)
+
 
 
 
