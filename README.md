@@ -6,3 +6,7 @@ day 1
 
 - Implementasi git pull dan push
 ![image](https://user-images.githubusercontent.com/97284723/184715497-c1257ecd-aba1-4e2a-add9-5c5e41f7717e.png)
+
+- Implementasi git merge menggunakan terminal
+![image](https://user-images.githubusercontent.com/97284723/184717463-ec862578-9eba-423b-b067-e273289fb3ab.png)
+
