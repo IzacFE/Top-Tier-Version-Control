@@ -10,7 +10,7 @@ day 1
 - Implementasi git merge menggunakan terminal
 ![image](https://user-images.githubusercontent.com/97284723/184717463-ec862578-9eba-423b-b067-e273289fb3ab.png)
 
--Implementasi git stash menggunakan terminal
+- Implementasi git stash menggunakan terminal
 ![image](https://user-images.githubusercontent.com/97284723/184720741-363a4b93-bf27-4f01-9051-81a0d9793154.png)
 
 
