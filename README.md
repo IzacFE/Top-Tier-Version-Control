@@ -17,5 +17,9 @@ day 1
 ![image](https://user-images.githubusercontent.com/97284723/184724021-05fbac33-9f9b-4d26-9681-c1be39f38429.png)
 ![image](https://user-images.githubusercontent.com/97284723/184724047-30aa10e5-1181-4a56-aa72-1265f4b2a139.png)
 
+- Simulasi git merge no fast forward
+![image](https://user-images.githubusercontent.com/97284723/184730586-66ea3710-90c7-469e-9717-36ad40a1d8fc.png)
+
+
 
 
